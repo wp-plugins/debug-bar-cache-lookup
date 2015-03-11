@@ -1,0 +1,21 @@
+#dbcl_panel form p{
+    padding:5px;
+    clear:both;
+}
+#dbcl_panel form p label{
+    width:50px;
+    display:block;
+    float:left;
+}
+
+#dbcl_panel form p input{
+    float:left;
+    width:150px;
+}
+
+#dbcl_panel form p.center input{
+ width:200px;   
+}
+#dbcl_results {
+    margin-top:20px;
+}
